@@ -48,7 +48,7 @@ Tweaks that inject into apps will only work if: the sandbox is destroyed, or the
 |  OTADisabler         	| ✔️ |  -  | Delete and disable OTA badge | [ichitaso](https://ichitaso.com/apt)|
 |Filza File Manager 64-bit| ⭕ | Pressing on .deb's/binaries crashes the app | File Manager for iPhone, iPad, iPod Touch. | [TIGI Software](https://tigisoftware.com/cydia)|
 |  Amelija          	| ✔️ |  -  | Take full control of your wallpapers on the fly | [Twickd](https://repo.twickd.com/)|
-|  System Info         	| ✔️ |  -  | System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc | [ARX9x](https://apt.arx8x.net/)|
+|  System Info         	| ✔️ |  -  | System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc | [ARX8x](https://apt.arx8x.net/)|
 |  NewTerm 2          	| ✔️ |  -  | A powerful terminal app for iOS | [Chariz](https://havoc.app/)|
 |  TweakSettings      	| ✔️ |  -  | Dedicated settings app for tweaks | [CreatureCoding](https://creaturecoding.com/repo)|
 |  CCSupport          	| ✔️ |  -  | Support tweak for CC modules! | [opa224](https://opa334.github.io/)|
