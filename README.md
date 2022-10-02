@@ -46,7 +46,7 @@ Tweaks that inject into apps will only work if: the sandbox is destroyed, or the
 |  lockdown beta       	| ✔️ |  -  | Re-enables passcode functionality on iOS 14+ A11 devices. | [krit's repo](https://repo.krit.me//)|
 |  CCBalance          	| ✔️ |  -  | Change the audio balance from CC | [KingPuffdaddi](https://kingpuffdaddi.github.io/)|
 |  OTADisabler         	| ✔️ |  -  | Delete and disable OTA badge | [ichitaso](https://ichitaso.com/apt)|
-|Filza File Manager 64-bit| ⭕ | Pressing on .deb's crashes the app | File Manager for iPhone, iPad, iPod Touch. | [TIGI Software](https://tigisoftware.com/cydia)|
+|Filza File Manager 64-bit| ⭕ | Pressing on .deb's/binaries crashes the app | File Manager for iPhone, iPad, iPod Touch. | [TIGI Software](https://tigisoftware.com/cydia)|
 |  Amelija          	| ✔️ |  -  | Take full control of your wallpapers on the fly | [Twickd](https://repo.twickd.com/)|
 |  System Info         	| ✔️ |  -  | System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc | [ARX9x](https://apt.arx8x.net/)|
 |  NewTerm 2          	| ✔️ |  -  | A powerful terminal app for iOS | [Chariz](https://havoc.app/)|
