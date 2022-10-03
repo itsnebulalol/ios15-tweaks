@@ -21,6 +21,13 @@
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
+        "name": "Dodo",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "The perfect LS redesign.",
+        "repo": "[Ginsu Tweaks](https://repo.ginsu.dev/)"
+    },
+    {
         "name": "dotto+",
         "compatible": "✔️",
         "issue": "-",
