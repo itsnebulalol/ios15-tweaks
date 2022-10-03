@@ -151,7 +151,7 @@
         "compatible": "⭕",
         "issue": "LS works, status bar doesn't",
         "description": "Add 2 time zones to the LS and status bar",
-        "repo": "for real"
+        "repo": "[Ginsu](https://repo.ginsu.dev/)"
     },
     {
         "name": "Atria",
@@ -249,7 +249,7 @@
         "compatible": "✔️",
         "issue": "-",
         "description": "Change the audio balance from CC",
-        "repo": "Change the audio balance from CC"
+        "repo": "[KingPuffdaddi](https://kingpuffdaddi.github.io/)"
     },
     {
         "name": "OTADisabler",
