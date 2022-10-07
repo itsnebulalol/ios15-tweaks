@@ -226,7 +226,7 @@
     {
         "name": "Amber",
         "compatible": "⭕",
-        "issue": "Changing flashlight color doesn't work when enabled",
+        "issue": "Changing flashlight color doesn't work when enabled due to sandbox",
         "description": "Amber-ify your LED torch",
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
