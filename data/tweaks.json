@@ -404,5 +404,19 @@
         "issue": "-",
         "description": "Pull down in Settings to respring",
         "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "SmartBattery 2",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Battery saving, monitoring, and tuning tweak",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "SmartNetwork 2",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Smart features and functions for internet connections",
+        "repo": "[Havoc](https://havoc.app/)"
     }
 ]
