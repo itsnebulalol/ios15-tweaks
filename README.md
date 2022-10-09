@@ -68,3 +68,9 @@ Tweaks that inject into apps will only work if: the sandbox is destroyed, or the
 | dotto+                    | ✔️         | -                                                                              | Notifications, your style                                                                                                                                                                                     | [Dynastic](https://repo.dynastic.co/)                                                                         |
 | lockdown beta             | ✔️         | -                                                                              | Re-enables passcode functionality on A10/A11 devices                                                                                                                                                          | [krit's repo](https://repo.krit.me/)                                                                          |
 | visum                     | ✔️         | -                                                                              | Wake up and watch the weather directly on your Lock Screen                                                                                                                                                    | [Packix](https://repo.packix.com/)                                                                            |
+
+---
+
+##### Automatically generated with <3 by Nebula's Makefile and GitHub Actions
+
+##### Thank you to all the contributors! Most notably, [flower](https://twitter.com/flowerible) and [Nathan](https://github.com/verygenericname).
