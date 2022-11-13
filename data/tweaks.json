@@ -418,14 +418,14 @@
         "issue": "-",
         "description": "Smart features and functions for internet connections",
         "repo": "[Havoc](https://havoc.app/)"
-    }
+    },
     {
         "name": "fr",
         "compatible": "✔️",
         "issue": "-",
         "description": "fr",
         "repo": "[Nathan's repo](https://nathan4s.lol/repo)"
-    }
+    },
     {
         "name": "Badger",
         "compatible": "✔️",
