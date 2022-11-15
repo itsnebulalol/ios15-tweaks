@@ -432,5 +432,19 @@
         "issue": "-",
         "description": "Notification Badges. Reimagined.",
         "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Ventana",
+        "compatible": "❌"
+        "issue": "Loops at obtaining license then resprings, every respring.",
+        "description": "Modern lock screen inspired by desktop Windows 10",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Akara",
+        "compatible": "❌"
+        "issue": "Instant safe mode loop.",
+        "description": "Minimal design without compromise ",
+        "repo": "[Chariz](https://repo.chariz.com/)"
     }
 ]
