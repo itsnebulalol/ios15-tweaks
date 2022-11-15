@@ -248,7 +248,7 @@
         "name": "lockdown beta",
         "compatible": "❌",
         "issue": "Device says wrong passcode after entering correct one",
-        "description": "",
+        "description": "Re-enables passcode functionality on A10/A11 devices",
         "repo": "[krit's repo](https://repo.krit.me/)"
     },
     {
