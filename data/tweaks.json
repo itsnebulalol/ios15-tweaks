@@ -78,8 +78,8 @@
     },
     {
         "name": "SnowBoard",
-        "compatible": "⭕",
-        "issue": "Theming application icons are bugged",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "Theming engine",
         "repo": "[SparkDev](https://sparkdev.me/)"
     },
@@ -120,8 +120,8 @@
     },
     {
         "name": "SwipeExtenderX",
-        "compatible": "⭕",
-        "issue": "User apps can't be injected without no-sandbox",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
@@ -289,7 +289,7 @@
     {
         "name": "NewTerm 2",
         "compatible": "✔️",
-        "issue": "-",
+        "issue": "Need version [from the palera1n discord](https://cdn.discordapp.com/attachments/1028398976640229380/1041541973502345276/ws.hbang.newterm3_3.0b1_iphoneos-arm.deb)",
         "description": "A powerful terminal app for iOS",
         "repo": "[Chariz](https://havoc.app/)"
     },
@@ -509,5 +509,12 @@
         "issue": "-",
         "description": "Modernize your lock screen",
         "repo": "[Chariz](https://repo.chariz.com/)"
-    }
+    },
+    {
+        "name": "Enmity",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "The power of addons, all in your hand.",
+        "repo": "[Enmity](https://repo.enmity.app/)"
+    },
 ]
