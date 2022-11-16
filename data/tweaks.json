@@ -435,77 +435,77 @@
     },
     {
         "name": "Ventana",
-        "compatible": "❌"
+        "compatible": "❌",
         "issue": "Loops at obtaining license then resprings, every respring.",
         "description": "Modern lock screen inspired by desktop Windows 10",
         "repo": "[Havoc](https://havoc.app/)"
     },
     {
         "name": "Akara",
-        "compatible": "❌"
+        "compatible": "❌",
         "issue": "Instant safe mode loop.",
         "description": "Minimal design without compromise ",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
     {
         "name": "Pocket Translator",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "A super lightweight translator.",
         "repo": "[Ginsu Tweaks](https://repo.ginsu.dev/)"
     },
     {
         "name": "CCUptime",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Check your device uptime from the Control Center (Needs CCSupport)",
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
         "name": "WiCarrier",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Display WiFi network name in status bar",
         "repo": "[rpetrich](https://rpetri.ch/repo/)"
     },
     {
         "name": "BetterCCXI",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Gives enhanced connectivity and Music Modules",
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
         "name": "CarrierModern",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Change the carrier name in status bar",
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
         "name": "dotto+",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Minimalistic colorful notification badges",
         "repo": "[Dynastic](https://repo.dynastic.co/)"
     },
     {
         "name": "Cask 3",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Animated table scrolling",
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
         "name": "Youtube Reborn",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Youtube Customizer",
         "repo": "[Lillie's Repo](https://lillieh001.github.io/repo/)"
     },
     {
         "name": "Jellyfish",
-        "compatible": "✔️"
+        "compatible": "✔️",
         "issue": "-",
         "description": "Modernize your lock screen",
         "repo": "[Chariz](https://repo.chariz.com/)"
