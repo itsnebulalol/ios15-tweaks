@@ -183,8 +183,8 @@
     },
     {
         "name": "QuitAll",
-        "compatible": "✔️",
-        "issue": "-",
+        "compatible": "⭕",
+        "issue": "Device can't launch SpringBoard after respring",
         "description": "One tweak to quit them all",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
@@ -246,8 +246,8 @@
     },
     {
         "name": "lockdown beta",
-        "compatible": "✔️",
-        "issue": "-",
+        "compatible": "❌",
+        "issue": "Device says wrong passcode after entering correct one",
         "description": "Re-enables passcode functionality on A10/A11 devices",
         "repo": "[krit's repo](https://repo.krit.me/)"
     },
@@ -260,9 +260,9 @@
     },
     {
         "name": "OTADisabler",
-        "compatible": "✔️",
+        "compatible": "⭕",
         "issue": "-",
-        "description": "Delete and disable OTA badge",
+        "description": "Breaks apt",
         "repo": "[ichitaso](https://ichitaso.com/apt)"
     },
     {
@@ -418,5 +418,96 @@
         "issue": "-",
         "description": "Smart features and functions for internet connections",
         "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "fr",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "fr",
+        "repo": "[Nathan's repo](https://nathan4s.lol/repo)"
+    },
+    {
+        "name": "Badger",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Notification Badges. Reimagined.",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Ventana",
+        "compatible": "❌",
+        "issue": "Loops at obtaining license then resprings, every respring.",
+        "description": "Modern lock screen inspired by desktop Windows 10",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Akara",
+        "compatible": "❌",
+        "issue": "Instant safe mode loop.",
+        "description": "Minimal design without compromise ",
+        "repo": "[Chariz](https://repo.chariz.com/)"
+    },
+    {
+        "name": "Pocket Translator",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "A super lightweight translator.",
+        "repo": "[Ginsu Tweaks](https://repo.ginsu.dev/)"
+    },
+    {
+        "name": "CCUptime",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Check your device uptime from the Control Center (Needs CCSupport)",
+        "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "WiCarrier",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Display WiFi network name in status bar",
+        "repo": "[rpetrich](https://rpetri.ch/repo/)"
+    },
+    {
+        "name": "BetterCCXI",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Gives enhanced connectivity and Music Modules",
+        "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "CarrierModern",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Change the carrier name in status bar",
+        "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "dotto+",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Minimalistic colorful notification badges",
+        "repo": "[Dynastic](https://repo.dynastic.co/)"
+    },
+    {
+        "name": "Cask 3",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Animated table scrolling",
+        "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "Youtube Reborn",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Youtube Customizer",
+        "repo": "[Lillie's Repo](https://lillieh001.github.io/repo/)"
+    },
+    {
+        "name": "Jellyfish",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Modernize your lock screen",
+        "repo": "[Chariz](https://repo.chariz.com/)"
     }
 ]
