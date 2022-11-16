@@ -509,12 +509,12 @@
         "issue": "-",
         "description": "Modernize your lock screen",
         "repo": "[Chariz](https://repo.chariz.com/)"
-    }
+    },
     {
         "name": "Enmity",
         "compatible": "✔️",
         "issue": "-",
         "description": "The power of addons, all in your hand.",
-        "repo": "[Chariz](https://repo.chariz.com/)"
+        "repo": "[Enmity](https://repo.enmity.app/)"
     },
 ]
