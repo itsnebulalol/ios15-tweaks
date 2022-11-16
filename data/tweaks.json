@@ -184,7 +184,7 @@
     {
         "name": "QuitAll",
         "compatible": "⭕",
-        "issue": "Device can't launch spring after respring",
+        "issue": "Device can't launch SpringBoard after respring",
         "description": "One tweak to quit them all",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
