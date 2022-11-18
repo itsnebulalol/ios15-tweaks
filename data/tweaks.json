@@ -134,8 +134,8 @@
     },
     {
         "name": "Tranzlo",
-        "compatible": "⭕",
-        "issue": "User apps can't be injected without no-sandbox",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "A life savior translator tweak",
         "repo": "[MiRO92](https://miro92.com/repo)"
     },
@@ -232,8 +232,8 @@
     },
     {
         "name": "Amber",
-        "compatible": "⭕",
-        "issue": "Changing flashlight color doesn't work when enabled due to sandbox",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "Amber-ify your LED torch",
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
