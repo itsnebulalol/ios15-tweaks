@@ -497,13 +497,6 @@
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
-        "name": "dotto+",
-        "compatible": "✔️",
-        "issue": "-",
-        "description": "Minimalistic colorful notification badges",
-        "repo": "[Dynastic](https://repo.dynastic.co/)"
-    },
-    {
         "name": "Cask 3",
         "compatible": "✔️",
         "issue": "-",
