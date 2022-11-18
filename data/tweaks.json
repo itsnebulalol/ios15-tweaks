@@ -21,6 +21,13 @@
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
+        "name": "Cydia",
+        "compatible": "⭕",
+        "issue": "Finish button does not work after installing packages",
+        "description": "graphical iPhonr front-end for APT",
+        "repo": "[Download Deb](https://cdn.discordapp.com/attachments/688122301975363591/1024502035950874644/cydia_1.1.36-3_iphoneos-arm.deb)"
+    },
+    {
         "name": "Dodo",
         "compatible": "✔️",
         "issue": "-",
@@ -264,6 +271,13 @@
         "issue": "-",
         "description": "Breaks apt",
         "repo": "[ichitaso](https://ichitaso.com/apt)"
+    },
+    {
+        "name": "Sileo",
+        "compatible": "⭕",
+        "issue": "Canoot install local Debian packages",
+        "description": "A mordern APT package manager frontend",
+        "repo": "[procursus-local](https://mineek.online)"
     },
     {
         "name": "Filza File Manager 64-bit",
@@ -516,5 +530,5 @@
         "issue": "-",
         "description": "The power of addons, all in your hand.",
         "repo": "[Enmity](https://repo.enmity.app/)"
-    },
+    }
 ]
