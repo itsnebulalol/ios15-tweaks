@@ -524,4 +524,11 @@
         "description": "The power of addons, all in your hand.",
         "repo": "[Enmity](https://repo.enmity.app/)"
     }
+    {
+        "name": "Wonderbar",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Your status bar could use a little more magic!",
+        "repo": "[Chariz](https://repo.chariz.com/)"
+    }
 ]
