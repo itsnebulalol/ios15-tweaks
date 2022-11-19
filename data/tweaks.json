@@ -24,7 +24,7 @@
         "name": "Cydia",
         "compatible": "⭕",
         "issue": "Finish button does not work after installing packages",
-        "description": "graphical iPhonr front-end for APT",
+        "description": "graphical iPhone front-end for APT",
         "repo": "[Download Deb](https://cdn.discordapp.com/attachments/688122301975363591/1024502035950874644/cydia_1.1.36-3_iphoneos-arm.deb)"
     },
     {
