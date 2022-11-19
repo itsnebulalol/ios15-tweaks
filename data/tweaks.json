@@ -523,5 +523,18 @@
         "issue": "-",
         "description": "The power of addons, all in your hand.",
         "repo": "[Enmity](https://repo.enmity.app/)"
-    }
+    },
+    {
+        "name": "MacPass",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "MacOS login screen for iOS!",
+        "repo": "[nahtedetihw](https://nahtedetihw.github.io/)"
+    } {
+        "name": "TrollHelper",
+        "compatible": "⭕",
+        "issue": "-",
+        "description": "Helper utility to install and manage TrollStore!",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
 ]
