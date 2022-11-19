@@ -523,5 +523,12 @@
         "issue": "-",
         "description": "The power of addons, all in your hand.",
         "repo": "[Enmity](https://repo.enmity.app/)"
+    },
+    {
+        "name": "NotchBanners",
+        "compatible": "❌",
+        "issue": "Crashes to safemode when showing notification",
+        "description": "Make notifications come from the notch!",
+        "repo": "[Ginsu Tweaks](https://repo.ginsu.dev/)"
     }
 ]
