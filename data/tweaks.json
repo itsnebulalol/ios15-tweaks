@@ -127,8 +127,8 @@
     },
     {
         "name": "SwipeExtenderX",
-        "compatible": "✔️",
-        "issue": "-",
+        "compatible": "⭕",
+        "issue": "App crashes when used on password input screen",
         "description": "Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
