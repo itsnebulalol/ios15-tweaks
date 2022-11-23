@@ -525,6 +525,19 @@
         "repo": "[Enmity](https://repo.enmity.app/)"
     },
     {
+        "name": "Safecuts",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Fix iOS 15.0-15.3.1 hidden actions vuln",
+        "repo": "[0xilis's Repo](https://0xilis.github.io/repo/)"
+    },
+    {
+        "name": "Unsigncuts",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Import unsigned shortcut files",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
         "name": "RealCC",
         "compatible": "✔️",
         "issue": "-",
