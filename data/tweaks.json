@@ -538,6 +538,7 @@
         "description": "Import unsigned shortcut files",
         "repo": "[Havoc](https://havoc.app/)"
     },
+    {
         "name": "RealCC",
         "compatible": "✔️",
         "issue": "-",
