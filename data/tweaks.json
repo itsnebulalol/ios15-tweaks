@@ -525,6 +525,13 @@
         "repo": "[Enmity](https://repo.enmity.app/)"
     },
     {
+        "name": "MacPass",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "MacOS login screen for iOS!",
+        "repo": "[nahtedetihw](https://nahtedetihw.github.io/)"
+    },
+    {
         "name": "NotchBanners",
         "compatible": "❌",
         "issue": "Crashes to safemode when showing notification",
