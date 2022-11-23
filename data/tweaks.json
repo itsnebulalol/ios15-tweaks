@@ -523,5 +523,33 @@
         "issue": "-",
         "description": "The power of addons, all in your hand.",
         "repo": "[Enmity](https://repo.enmity.app/)"
+    },
+    {
+        "name": "RealCC",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Actually disable Wi-Fi from the iOS CC",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "half",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "New iOS Battery Indicator Style",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Hestia",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Global jailbreak detection bypass",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "TrollStore Helper",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Helper utility to install and manage TrollStore",
+        "repo": "[Havoc](https://havoc.app/)"
     }
 ]
