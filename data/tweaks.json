@@ -127,8 +127,8 @@
     },
     {
         "name": "SwipeExtenderX",
-        "compatible": "✔️",
-        "issue": "-",
+        "compatible": "⭕",
+        "issue": "App crashes when used on password input screen",
         "description": "Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
@@ -333,7 +333,7 @@
         "compatible": "✔️",
         "issue": "-",
         "description": "Set a video as your wallpaper",
-        "repo": "[Taurige Github](https://github.com/Traurige/Eneko)"
+        "repo": "[Traurige Github](https://github.com/Traurige/Eneko)"
     },
     {
         "name": "PomPom",
