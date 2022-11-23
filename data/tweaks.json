@@ -245,10 +245,10 @@
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
-        "name": "EmojiPort (iOS 12.0-14.8)",
+        "name": "EmojiPort (iOS 12.0-15.3)",
         "compatible": "✔️",
-        "issue": "Needs control file editing to install",
-        "description": "Latest emojis for iOS 12.0-14.8",
+        "issue": "-",
+        "description": "Latest emojis for iOS 12.0-15.3",
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
@@ -530,5 +530,47 @@
         "issue": "Crashes to safemode when showing notification",
         "description": "Make notifications come from the notch!",
         "repo": "[Ginsu Tweaks](https://repo.ginsu.dev/)"
+    },
+    {
+        "name": "Safecuts",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Fix iOS 15.0-15.3.1 hidden actions vuln",
+        "repo": "[0xilis's Repo](https://0xilis.github.io/repo/)"
+    },
+    {
+        "name": "Unsigncuts",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Import unsigned shortcut files",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "RealCC",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Actually disable Wi-Fi from the iOS CC",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "half",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "New iOS Battery Indicator Style",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Hestia",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Global jailbreak detection bypass",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "TrollStore Helper",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Helper utility to install and manage TrollStore",
+        "repo": "[Havoc](https://havoc.app/)"
     }
 ]
