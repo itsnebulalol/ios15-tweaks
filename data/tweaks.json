@@ -245,10 +245,10 @@
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
-        "name": "EmojiPort (iOS 12.0-14.8)",
+        "name": "EmojiPort (iOS 12.0-15.3)",
         "compatible": "✔️",
-        "issue": "Needs control file editing to install",
-        "description": "Latest emojis for iOS 12.0-14.8",
+        "issue": "-",
+        "description": "Latest emojis for iOS 12.0-15.3",
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
