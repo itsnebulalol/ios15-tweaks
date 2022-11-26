@@ -24,8 +24,15 @@
         "name": "Cydia",
         "compatible": "⭕",
         "issue": "Finish button does not work after installing packages",
-        "description": "graphical iPhonr front-end for APT",
+        "description": "graphical iPhone front-end for APT",
         "repo": "[Download Deb](https://cdn.discordapp.com/attachments/688122301975363591/1024502035950874644/cydia_1.1.36-3_iphoneos-arm.deb)"
+    },
+    {
+        "name": "ChromaHomeBarX",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Chroma on the Home Bar",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
     },
     {
         "name": "Dodo",
@@ -127,8 +134,8 @@
     },
     {
         "name": "SwipeExtenderX",
-        "compatible": "✔️",
-        "issue": "-",
+        "compatible": "⭕",
+        "issue": "App crashes when used on password input screen",
         "description": "Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
@@ -245,10 +252,10 @@
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
-        "name": "EmojiPort (iOS 12.0-14.8)",
+        "name": "EmojiPort (iOS 12.0-15.3)",
         "compatible": "✔️",
-        "issue": "Needs control file editing to install",
-        "description": "Latest emojis for iOS 12.0-14.8",
+        "issue": "-",
+        "description": "Latest emojis for iOS 12.0-15.3",
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
@@ -333,7 +340,7 @@
         "compatible": "✔️",
         "issue": "-",
         "description": "Set a video as your wallpaper",
-        "repo": "[Taurige Github](https://github.com/Traurige/Eneko)"
+        "repo": "[Traurige Github](https://github.com/Traurige/Eneko)"
     },
     {
         "name": "PomPom",
@@ -531,4 +538,74 @@
         "description": "Your status bar could use a little more magic!",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
+    {
+        "name": "MacPass",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "MacOS login screen for iOS!",
+        "repo": "[nahtedetihw](https://nahtedetihw.github.io/)"
+    },
+    {
+        "name": "NotchBanners",
+        "compatible": "❌",
+        "issue": "Crashes to safemode when showing notification",
+        "description": "Make notifications come from the notch!",
+        "repo": "[Ginsu Tweaks](https://repo.ginsu.dev/)"
+    },
+    {
+        "name": "Safecuts",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Fix iOS 15.0-15.3.1 hidden actions vuln",
+        "repo": "[0xilis's Repo](https://0xilis.github.io/repo/)"
+    },
+    {
+        "name": "Unsigncuts",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Import unsigned shortcut files",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "RealCC",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Actually disable Wi-Fi from the iOS CC",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "half",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "New iOS Battery Indicator Style",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Hestia",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Global jailbreak detection bypass",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "TrollStore Helper",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Helper utility to install and manage TrollStore",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "11Cam14",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "iPhone 11 Camera for older devices",
+        "repo": "[michaelmelita1's repo](https://michaelmelita1.github.io/)"
+    },
+    {
+        "name": "Little12",
+        "compatible": "✔️",
+        "issue": "Resprings on instll - disable rounded appswitcher and it works fine",
+        "description": "Gestures on all devices",
+        "repo": "[Packix](https://repo.packix.com/)"
+    }
 ]
