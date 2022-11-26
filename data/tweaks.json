@@ -614,5 +614,12 @@
         "issue": "Respring loops",
         "description": "Support library allowing tweaks to communicate with sandboxed processes",
         "repo": "[rpetrich repo](https://rpetri.ch/repo/)"
+    },
+    {
+        "name": "Installer",
+        "compatible": "❌",
+        "issue": "Needs to be resigned with ldid & can't install any package",
+        "description": "The fastest package manager built specifically for iOS!",
+        "repo": "[AppTapp Repository](https://apptapp.me/repo/)"
     }
 ]
