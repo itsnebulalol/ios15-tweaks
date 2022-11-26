@@ -621,5 +621,12 @@
         "issue": "Needs to be resigned with ldid & can't install any package",
         "description": "The fastest package manager built specifically for iOS!",
         "repo": "[AppTapp Repository](https://apptapp.me/repo/)"
+    },
+    {
+        "name": "Zebra",
+        "compatible": "❌",
+        "issue": "Can't install any package",
+        "description": "A Useful Package Manager",
+        "repo": "[Zebra](https://getzbra.com/repo/)"
     }
 ]
