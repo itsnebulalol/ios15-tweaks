@@ -628,5 +628,12 @@
         "issue": "Can't install any package",
         "description": "A Useful Package Manager",
         "repo": "[Zebra](https://getzbra.com/repo/)"
+    },
+    {
+        "name": "Docky",
+        "compatible": "⭕",
+        "issue": "Crashes to safemode when dragging an app onto the dock (Double or Expandable setting); Apps don't show on the dock at all with Infinity setting",
+        "description": "Dock customizer",
+        "repo": "[Nepeta (MIRROR)](https://alexpng.github.io/Nepeta-Mirror/)"
     }
 ]
