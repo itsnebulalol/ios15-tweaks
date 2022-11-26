@@ -282,7 +282,7 @@
     {
         "name": "Sileo",
         "compatible": "⭕",
-        "issue": "Canoot install local Debian packages",
+        "issue": "Cannot install local Debian packages",
         "description": "A mordern APT package manager frontend",
         "repo": "[procursus-local](https://mineek.online)"
     },
