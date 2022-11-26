@@ -642,5 +642,12 @@
         "issue": "Needs to be resigned with ldid",
         "description": "A security application for Jailbroken iOS Devices, created by GeoSn0w (@FCE365).",
         "repo": "[iSecureOS Security Repo](https://isecureos.idevicecentral.com/repo/)"
+    },
+    {
+        "name": "TSS Saver",
+        "compatible": "⭕",
+        "issue": "Needs to be resigned with ldid & cannot read generator",
+        "description": "An easy to use app to save SHSH2 blobs",
+        "repo": "[1Conan](http://repo.1conan.com)"
     }
 ]
