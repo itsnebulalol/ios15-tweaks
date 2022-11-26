@@ -610,8 +610,8 @@
     },
     {
         "name": "RocketBootstrap",
-        "compatible": "❌",
-        "issue": "Respring loops",
+        "compatible": "⭕",
+        "issue": "Respring loops (can be fixed by resigning with ldid)",
         "description": "Support library allowing tweaks to communicate with sandboxed processes",
         "repo": "[rpetrich repo](https://rpetri.ch/repo/)"
     },
