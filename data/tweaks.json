@@ -635,5 +635,12 @@
         "issue": "Crashes to safemode when dragging an app onto the dock (Double or Expandable setting); Apps don't show on the dock at all with Infinity setting",
         "description": "Dock customizer",
         "repo": "[Nepeta (MIRROR)](https://alexpng.github.io/Nepeta-Mirror/)"
+    },
+    {
+        "name": "iSecureOS",
+        "compatible": "✔️",
+        "issue": "Needs to be resigned with ldid",
+        "description": "A security application for Jailbroken iOS Devices, created by GeoSn0w (@FCE365).",
+        "repo": "[iSecureOS Security Repo](https://isecureos.idevicecentral.com/repo/)"
     }
 ]
