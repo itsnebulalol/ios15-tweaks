@@ -607,5 +607,12 @@
         "issue": "Resprings on instll - disable rounded appswitcher and it works fine",
         "description": "Gestures on all devices",
         "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "RocketBootstrap",
+        "compatible": "❌",
+        "issue": "Respring loops",
+        "description": "Support library allowing tweaks to communicate with sandboxed processes",
+        "repo": "[rpetrich repo](https://rpetri.ch/repo/)"
     }
 ]
