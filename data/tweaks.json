@@ -339,6 +339,7 @@
         "name": "Prysm"
         "compatible": "❌",
         "issue": "Causes respring loop"
+        "description": "Custom Control Center",
         "repo": "[Havoc](https://havoc.app/)"
         
     },
