@@ -336,6 +336,13 @@
         "repo": "[Johnzaro's](https://johnzaro.github.io/cydia/)"
     },
     {
+        "name": "Prysm"
+        "compatible": "❌",
+        "issue": "Causes respring loop"
+        "repo": "[Havoc](https://havoc.app/)"
+        
+    },
+    {
         "name": "Eneko",
         "compatible": "✔️",
         "issue": "-",
