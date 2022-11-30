@@ -607,7 +607,7 @@
         "issue": "Resprings on instll - disable rounded appswitcher and it works fine",
         "description": "Gestures on all devices",
         "repo": "[Packix](https://repo.packix.com/)"
-    }
+    },
     {
         "name": "FakePass",
         "compatible": "✔️",
