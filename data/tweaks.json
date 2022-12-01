@@ -310,9 +310,9 @@
     {
         "name": "NewTerm 2",
         "compatible": "✔️",
-        "issue": "Need version [from the palera1n discord](https://cdn.discordapp.com/attachments/1028398976640229380/1041541973502345276/ws.hbang.newterm3_3.0b1_iphoneos-arm.deb)",
+        "issue": "Need version from [this repo.](https://apt.nickchan.lol/)",
         "description": "A powerful terminal app for iOS",
-        "repo": "[Chariz](https://havoc.app/)"
+        "repo": "[Chariz](https://chariz.com/)"
     },
     {
         "name": "TweakSettings",
