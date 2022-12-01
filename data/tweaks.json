@@ -282,7 +282,7 @@
     {
         "name": "Sileo",
         "compatible": "⭕",
-        "issue": "Canoot install local Debian packages",
+        "issue": "Cannot install local Debian packages",
         "description": "A mordern APT package manager frontend",
         "repo": "[procursus-local](https://mineek.online)"
     },
@@ -614,6 +614,48 @@
         "issue": "Resprings on instll - disable rounded appswitcher and it works fine",
         "description": "Gestures on all devices",
         "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "RocketBootstrap",
+        "compatible": "⭕",
+        "issue": "Respring loops (can be fixed by resigning with ldid)",
+        "description": "Support library allowing tweaks to communicate with sandboxed processes",
+        "repo": "[rpetrich repo](https://rpetri.ch/repo/)"
+    },
+    {
+        "name": "Installer",
+        "compatible": "❌",
+        "issue": "Needs to be resigned with ldid & can't install any package",
+        "description": "The fastest package manager built specifically for iOS!",
+        "repo": "[AppTapp Repository](https://apptapp.me/repo/)"
+    },
+    {
+        "name": "Zebra",
+        "compatible": "❌",
+        "issue": "Can't install any package",
+        "description": "A Useful Package Manager",
+        "repo": "[Zebra](https://getzbra.com/repo/)"
+    },
+    {
+        "name": "Docky",
+        "compatible": "⭕",
+        "issue": "Crashes to safemode when dragging an app onto the dock (Double or Expandable setting); Apps don't show on the dock at all with Infinity setting",
+        "description": "Dock customizer",
+        "repo": "[Nepeta (MIRROR)](https://alexpng.github.io/Nepeta-Mirror/)"
+    },
+    {
+        "name": "iSecureOS",
+        "compatible": "✔️",
+        "issue": "Needs to be resigned with ldid",
+        "description": "A security application for Jailbroken iOS Devices, created by GeoSn0w (@FCE365).",
+        "repo": "[iSecureOS Security Repo](https://isecureos.idevicecentral.com/repo/)"
+    },
+    {
+        "name": "TSS Saver",
+        "compatible": "⭕",
+        "issue": "Needs to be resigned with ldid & cannot read generator",
+        "description": "An easy to use app to save SHSH2 blobs",
+        "repo": "[1Conan](http://repo.1conan.com)"
     },
     {
         "name": "FakePass",
