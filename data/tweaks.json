@@ -310,9 +310,9 @@
     {
         "name": "NewTerm 2",
         "compatible": "✔️",
-        "issue": "Needs to be resigned with ldid",
+        "issue": "Need version from [this repo.](https://apt.nickchan.lol/)",
         "description": "A powerful terminal app for iOS",
-        "repo": "[Chariz](https://havoc.app/)"
+        "repo": "[Chariz](https://chariz.com/)"
     },
     {
         "name": "TweakSettings",
@@ -334,6 +334,13 @@
         "issue": "-",
         "description": "Adds second line in status bar for showing the date on notched devices",
         "repo": "[Johnzaro's](https://johnzaro.github.io/cydia/)"
+    },
+    {
+        "name": "Prysm",
+        "compatible": "❌",
+        "issue": "Causes respring loop",
+        "description": "Custom Control Center",
+        "repo": "[Havoc](https://havoc.app/)"
     },
     {
         "name": "Eneko",
@@ -649,5 +656,12 @@
         "issue": "Needs to be resigned with ldid & cannot read generator",
         "description": "An easy to use app to save SHSH2 blobs",
         "repo": "[1Conan](http://repo.1conan.com)"
+    },
+    {
+        "name": "FakePass",
+        "compatible": "✔️",
+        "issue": "Not in a repo, download [here](https://cdn.discordapp.com/attachments/1028398976640229380/1044412805530538034/net.cadoth.fakepass_0.1.0-11debug_iphoneos-arm.deb).",
+        "description": "Adds a passcode to the lockscreen for A10(X)/A11 devices jailbroken with palera1n. Uses iOS's native passcode UI.",
+        "repo": "N/A"
     }
 ]
