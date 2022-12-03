@@ -119,6 +119,20 @@
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
+        "name": "SmoothBattery",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Change your battery colors, in style.",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "Folded",
+        "compatible": "⭕",
+        "issue": "Crashes into safemode when trying to move icons in a folder on 4x4 and above",
+        "description": "Customize your folders in style.",
+        "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
         "name": "Tako",
         "compatible": "❌",
         "issue": "Crashes to safemode",
