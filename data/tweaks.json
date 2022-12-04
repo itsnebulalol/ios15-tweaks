@@ -275,8 +275,8 @@
     {
         "name": "OTADisabler",
         "compatible": "⭕",
-        "issue": "-",
-        "description": "Breaks apt",
+        "issue": "Breaks APT",
+        "description": "Delete and disable OTA badge",
         "repo": "[ichitaso](https://ichitaso.com/apt)"
     },
     {
