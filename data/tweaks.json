@@ -677,5 +677,12 @@
         "issue": "Results in a state in which the device gets to lock screen for a few seconds, but resprings around 5 seconds later",
         "description": "Bring back the iOS 9 Lock Screen!",
         "repo": "[MinhTon's Repo](https://minh-ton.github.io/repo/)"
+    },
+    {
+        "name": "Windmill",
+        "compatible": "❌",
+        "issue": "Respring loops",
+        "description": "Windmill for iOS 11",
+        "repo": "[Packix](https://repo.packix.com)"
     }
 ]
