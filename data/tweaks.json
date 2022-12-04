@@ -611,7 +611,7 @@
     {
         "name": "Little12",
         "compatible": "✔️",
-        "issue": "Resprings on instll - disable rounded appswitcher and it works fine",
+        "issue": "Resprings on install - disable rounded appswitcher and it works fine",
         "description": "Gestures on all devices",
         "repo": "[Packix](https://repo.packix.com/)"
     },
