@@ -618,7 +618,7 @@
     {
         "name": "RocketBootstrap",
         "compatible": "⭕",
-        "issue": "Respring loops (can be fixed by resigning with ldid(may also straight up not work after resigning, nothing we can do about it))",
+        "issue": "Respring loops (can be fixed by resigning with ldid (resigning can cause random and very inconsistent behavior such as apps crashing))",
         "description": "Support library allowing tweaks to communicate with sandboxed processes",
         "repo": "[rpetrich repo](https://rpetri.ch/repo/)"
     },
