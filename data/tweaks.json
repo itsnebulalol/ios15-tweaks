@@ -7,6 +7,41 @@
         "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
     },
     {
+        "name": "AlarmVolume",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Set volume for Alarms and Timers",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "AdvancedBrightnessSlider",
+        "compatible": "❌",
+        "issue": "Crashes to safe mode as soon as the Brightness slide gets triggered.",
+        "description": "Dim the screen even further than usual",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Atlas",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Minimalistic video player replacement",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "PowerSelector",
+        "compatible": "⭕",
+        "issue": "The tweak (in CC) and the preferences in Settings works well. App, instead, crashes as soon as it is opened",
+        "description": "Simple advanced reboot (Reboot / PowerOff / Respring / uicache / Safe Mode) directly in CC",
+        "repo": "[ichitaso](https://ichitaso.com/apt)"
+    },
+    {
+        "name": "3DBadgeClear",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Clear badges directly from the Force Touch / 3D Touch menu",
+        "repo": "[Twickd](https://repo.twickd.com/)"
+    },
+    {
         "name": "BatteryBoobs",
         "compatible": "✔️",
         "issue": "-",
