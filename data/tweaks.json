@@ -698,5 +698,26 @@
         "issue": "Not in a repo, download [here](https://cdn.discordapp.com/attachments/1028398976640229380/1044412805530538034/net.cadoth.fakepass_0.1.0-11debug_iphoneos-arm.deb).",
         "description": "Adds a passcode to the lockscreen for A10(X)/A11 devices jailbroken with palera1n. Uses iOS's native passcode UI.",
         "repo": "N/A"
+    },
+    {
+        "name": "AppData",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "View & Manage Applications Data from your Home Screen",
+        "repo": "[Fouad's Repo](https://apt.fouadraheb.com)"
+    },
+    {
+        "name": "CopyLog",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Clipboard history manager for iOS!",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "WeatherDate",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Show weather info on lockscreen & stock weather app icon",
+        "repo": "[Repo Of A Noob](https://tweak.mario.net.in)"
     }
 ]
