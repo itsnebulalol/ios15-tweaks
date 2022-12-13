@@ -113,8 +113,8 @@
     },
     {
         "name": "TetherMe",
-        "compatible": "✔️",
-        "issue": "-",
+        "compatible": "⭕",
+        "issue": "Works on iOS 15 but not 16. You can't uninstall it on 16 and itll brick itself everytine you try to install something else.",
         "description": "Dynamically enables native tethering for iOS 8+ devices",
         "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
     },
