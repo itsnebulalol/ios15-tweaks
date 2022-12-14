@@ -733,5 +733,12 @@
         "issue": "-",
         "description": "Show weather info on lockscreen & stock weather app icon",
         "repo": "[Repo Of A Noob](https://tweak.mario.net.in)"
+    },
+    {
+        "name": "Legizmo 'Kincaid'",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Pair unsupported Apple Watches",
+        "repo": "[Chariz](https://repo.chariz.com/)"
     }
 ]
