@@ -631,8 +631,8 @@
     },
     {
         "name": "Zebra",
-        "compatible": "❌",
-        "issue": "Can't install any package",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "A Useful Package Manager",
         "repo": "[Zebra](https://getzbra.com/repo/)"
     },
