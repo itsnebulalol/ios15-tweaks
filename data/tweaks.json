@@ -761,5 +761,19 @@
         "issue": "-",
         "description": "Show weather info on lockscreen & stock weather app icon",
         "repo": "[Repo Of A Noob](https://tweak.mario.net.in)"
+    },
+    {
+        "name": "diskdev-cmds",
+        "compatible": "❌",
+        "issue": "Causes launchd to panic on reboot",
+        "description": "mount, quota, fsck, fstyp, fdisk, tunefs",
+        "repo": "[Procursus](https://apt.procurs.us/)"
+    },
+    {
+        "name": "diskdev-cmds",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "mount, quota, fsck, fstyp, fdisk, tunefs",
+        "repo": "[palera1n strap repo](https://strap.palera1.in/)"
     }
 ]
