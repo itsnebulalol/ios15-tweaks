@@ -28,6 +28,13 @@
         "repo": "[Havoc](https://havoc.app/)"
     },
     {
+        "name": "Ampere",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "iOS 16 Style Battery Indicator",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
         "name": "PowerSelector",
         "compatible": "⭕",
         "issue": "The tweak (in CC) and the preferences in Settings works well. App, instead, crashes as soon as it is opened",
