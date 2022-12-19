@@ -428,8 +428,8 @@
     },
     {
         "name": "Checkl0ck",
-        "compatible": "❌",
-        "issue": "Crashes to safe mode. Not installable anyway since deb control file is munted.",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "A11 devices like iPhone 8/X which have been jailbroken with Checkra1n cannot have passcode or FaceID/TouchID. Checkl0ck is a tweak for such devices to give you back the passcode and biometric capabilities.",
         "repo": "[Havoc](https://havoc.app/)"
     },
