@@ -747,5 +747,75 @@
         "issue": "-",
         "description": "Pair unsupported Apple Watches",
         "repo": "[Chariz](https://repo.chariz.com/)"
+    },
+    {
+        "name": "DoABarrelWall",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Cycle through lockscreen and homescreen wallpapers when unlocking device.",
+        "repo": "[denial's plain repo](https://denialpan.github.io)"
+    },
+    {
+        "name": "DesktopLyrics",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Show lyrics anywhere",
+        "repo": "[Brend0n's repo](https://brendonjkding.github.io)"
+    },
+    {
+        "name": "iPadBar13",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Awesome Status Bar!",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "PanCake",
+        "compatible": "⭕",
+        "issue": "Changes to blacklist and HapticFeedback settings are not reflected.",
+        "description": "Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page",
+        "repo": "[AnthoPak's Repo](https://repo.anthopak.dev)"
+    },
+    {
+        "name": "MenuSupport",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Simply plugin loader for iOS system menu.",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Next Music",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Notify music infomation with a small banner.",
+        "repo": "[Sugiuta's Repo](https://sugiuta.github.io/repo)"
+    },
+    {
+        "name": "BattSafePro",
+        "compatible": "❌",
+        "issue": "Crashes to safemode when charging starts",
+        "description": "Charging and low power mode toasts!",
+        "repo": "[biD4V's Repo]"
+    },
+    {
+        "name": "Velaris",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Calendar and weather on your home screen",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "SmarterLPM",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "A smarter load power mode !!",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "RoadRunner",
+        "compatible": "❌",
+        "issue": "Crashes to safemode",
+        "description": "Keep apps alive through resprings",
+        "repo": "[henrikssonbrothers](https://henrikssonbrothers.com/cydia/repo)"
     }
 ]
