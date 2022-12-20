@@ -716,9 +716,9 @@
     {
         "name": "FakePass",
         "compatible": "✔️",
-        "issue": "Not in a repo, download [here](https://cdn.discordapp.com/attachments/1028398976640229380/1044412805530538034/net.cadoth.fakepass_0.1.0-11debug_iphoneos-arm.deb).",
+        "issue": "-",
         "description": "Adds a passcode to the lockscreen for A10(X)/A11 devices jailbroken with palera1n. Uses iOS's native passcode UI.",
-        "repo": "N/A"
+        "repo": "[alexia's repo](https://repo.alexia.lol/)"
     },
     {
         "name": "AppData",
