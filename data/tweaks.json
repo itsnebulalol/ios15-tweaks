@@ -772,7 +772,7 @@
     {
         "name": "PanCake",
         "compatible": "⭕",
-        "issue": "Changes to blacklist and HapticFeedback settings are not reflected.",
+        "issue": "Settings not applied",
         "description": "Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page",
         "repo": "[AnthoPak's Repo](https://repo.anthopak.dev)"
     },
