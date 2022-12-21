@@ -817,5 +817,12 @@
         "issue": "Crashes to safemode",
         "description": "Keep apps alive through resprings",
         "repo": "[henrikssonbrothers](https://henrikssonbrothers.com/cydia/repo)"
+    },
+    {
+        "name": "A-Font",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Change your font!",
+        "repo": "[MERONA Repo](https://repo.co.kr/)"
     }
 ]
