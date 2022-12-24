@@ -28,6 +28,13 @@
         "repo": "[Havoc](https://havoc.app/)"
     },
     {
+        "name": "Ampere",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "iOS 16 Style Battery Indicator",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
         "name": "PowerSelector",
         "compatible": "⭕",
         "issue": "The tweak (in CC) and the preferences in Settings works well. App, instead, crashes as soon as it is opened",
@@ -421,8 +428,8 @@
     },
     {
         "name": "Checkl0ck",
-        "compatible": "❌",
-        "issue": "Crashes to safe mode. Not installable anyway since deb control file is munted.",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "A11 devices like iPhone 8/X which have been jailbroken with Checkra1n cannot have passcode or FaceID/TouchID. Checkl0ck is a tweak for such devices to give you back the passcode and biometric capabilities.",
         "repo": "[Havoc](https://havoc.app/)"
     },
@@ -775,5 +782,12 @@
         "issue": "-",
         "description": "mount, quota, fsck, fstyp, fdisk, tunefs",
         "repo": "[palera1n strap repo](https://strap.palera1.in/)"
+    },
+    {
+        "name": "Legizmo 'Kincaid'",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Pair unsupported Apple Watches",
+        "repo": "[Chariz](https://repo.chariz.com/)"
     }
 ]
