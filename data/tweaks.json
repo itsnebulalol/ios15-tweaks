@@ -789,5 +789,12 @@
         "issue": "-",
         "description": "Pair unsupported Apple Watches",
         "repo": "[Chariz](https://repo.chariz.com/)"
+    },
+    {
+        "name": "Emerald",
+        "compatible": "⭕",
+        "issue": "Battery pill causes respring loop",
+        "description": "Status Bar Pills and Platters",
+        "repo": "[Havoc](https://havoc.app)"
     }
 ]
