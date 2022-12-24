@@ -793,7 +793,7 @@
     {
         "name": "Emerald",
         "compatible": "⭕",
-        "issue": "Battery pill causes respring loop",
+        "issue": "Battery pill causes respring loop; centered pill disregards whether or not device has a notch",
         "description": "Status Bar Pills and Platters",
         "repo": "[Havoc](https://havoc.app)"
     }
