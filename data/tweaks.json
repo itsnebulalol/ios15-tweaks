@@ -35,6 +35,13 @@
         "repo": "[Havoc](https://havoc.app/)"
     },
     {
+        "name": "AppStore++",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Allows you to downgrade/upgrade apps in the AppStore",
+        "repo": "[CokePokes](https://cokepokes.github.io/)" 
+    },
+    {
         "name": "PowerSelector",
         "compatible": "⭕",
         "issue": "The tweak (in CC) and the preferences in Settings works well. App, instead, crashes as soon as it is opened",
@@ -75,6 +82,13 @@
         "issue": "-",
         "description": "Chroma on the Home Bar",
         "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "Cylinder Reborn",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Cylinder Reborn brings cool scrolling icon animation to iOS",
+        "repo": "[Chariz](https://repo.chariz.com/)"
     },
     {
         "name": "Dodo",
