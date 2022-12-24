@@ -331,15 +331,15 @@
     {
         "name": "OTADisabler",
         "compatible": "⭕",
-        "issue": "-",
-        "description": "Breaks apt",
+        "issue": "Breaks APT",
+        "description": "Delete and disable OTA badge",
         "repo": "[ichitaso](https://ichitaso.com/apt)"
     },
     {
         "name": "Sileo",
         "compatible": "⭕",
         "issue": "Cannot install local Debian packages",
-        "description": "A mordern APT package manager frontend",
+        "description": "A modern APT package manager frontend",
         "repo": "[procursus-local](https://mineek.online)"
     },
     {
@@ -667,17 +667,24 @@
     {
         "name": "Little12",
         "compatible": "✔️",
-        "issue": "Resprings on instll - disable rounded appswitcher and it works fine",
+        "issue": "Resprings on install - disable rounded appswitcher and it works fine",
         "description": "Gestures on all devices",
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
         "name": "RocketBootstrap",
         "compatible": "⭕",
-        "issue": "Respring loops (can be fixed by resigning with ldid(may also straight up not work after resigning, nothing we can do about it))",
+        "issue": "Respring loops (*may* be fixed by resigning with ldid)",
         "description": "Support library allowing tweaks to communicate with sandboxed processes",
         "repo": "[rpetrich repo](https://rpetri.ch/repo/)"
     },
+    {
+        "name": "RocketBootstrap",
+        "compatible": "✔️",
+        "issue": "May not be compatible with some RocketBootstrap-dependent tweaks",
+        "description": "Support library allowing tweaks to communicate with sandboxed processes",
+        "repo": "[Odyssey Repo](https://repo.theodyssey.dev/)"
+    }
     {
         "name": "Installer",
         "compatible": "❌",
@@ -687,8 +694,8 @@
     },
     {
         "name": "Zebra",
-        "compatible": "❌",
-        "issue": "Can't install any package",
+        "compatible": "⭕",
+        "issue": "Can't install any package (note: only *installing* is broken, everything else works fine)",
         "description": "A Useful Package Manager",
         "repo": "[Zebra](https://getzbra.com/repo/)"
     },
@@ -721,6 +728,34 @@
         "repo": "N/A"
     },
     {
+        "name": "Zebra (ALPHA)",
+        "compatible": "❌",
+        "issue": "Crashes when pressing almost any button",
+        "description": "A Useful Package Manager",
+        "repo": "[Zebra](https://getzbra.com/beta)"
+    },
+    {
+        "name": "NineLS",
+        "compatible": "❌",
+        "issue": "Results in a state in which the device somehow gets to lock screen, but resprings around 5 seconds later",
+        "description": "Bring back the iOS 9 Lock Screen!",
+        "repo": "[MinhTon's Repo](https://minh-ton.github.io/repo/)"
+    },
+    {
+        "name": "Windmill",
+        "compatible": "❌",
+        "issue": "Respring loops",
+        "description": "Windmill for iOS 11",
+        "repo": "[Packix](https://repo.packix.com)"
+    },
+    {
+        "name": "Heartlines",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "I know there's trembling in your heartlines",
+        "repo": "[UNDRESSD](https://traurige.dev/)"
+    },
+    {
         "name": "AppData",
         "compatible": "✔️",
         "issue": "-",
@@ -742,10 +777,38 @@
         "repo": "[Repo Of A Noob](https://tweak.mario.net.in)"
     },
     {
+        "name": "diskdev-cmds",
+        "compatible": "❌",
+        "issue": "Causes launchd to panic on reboot",
+        "description": "mount, quota, fsck, fstyp, fdisk, tunefs",
+        "repo": "[Procursus](https://apt.procurs.us/)"
+    },
+    {
+        "name": "diskdev-cmds",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "mount, quota, fsck, fstyp, fdisk, tunefs",
+        "repo": "[palera1n strap repo](https://strap.palera1.in/)"
+    },
+    {
         "name": "Legizmo 'Kincaid'",
         "compatible": "✔️",
         "issue": "-",
         "description": "Pair unsupported Apple Watches",
         "repo": "[Chariz](https://repo.chariz.com/)"
+    },
+    {
+        "name": "Emerald",
+        "compatible": "⭕",
+        "issue": "Battery pill causes respring loop; centered pill disregards whether or not device has a notch; notification pill does nothing",
+        "description": "Status Bar Pills and Platters",
+        "repo": "[Havoc](https://havoc.app)"
+    },
+    {
+        "name": "NotificationTester",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Send test notifications from settings",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
     }
 ]
