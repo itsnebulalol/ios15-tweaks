@@ -793,8 +793,15 @@
     {
         "name": "Emerald",
         "compatible": "⭕",
-        "issue": "Battery pill causes respring loop; centered pill disregards whether or not device has a notch",
+        "issue": "Battery pill causes respring loop; centered pill disregards whether or not device has a notch; notification pill does nothing",
         "description": "Status Bar Pills and Platters",
         "repo": "[Havoc](https://havoc.app)"
+    },
+    {
+        "name": "NotificationTester",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Send test notifications from settings",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
     }
 ]
