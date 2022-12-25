@@ -253,8 +253,8 @@
     },
     {
         "name": "QuitAll",
-        "compatible": "⭕",
-        "issue": "Device can't launch SpringBoard after respring",
+        "compatible": "✔️",
+        "issue": "Fixed in newest version",
         "description": "One tweak to quit them all",
         "repo": "[Chariz](https://repo.chariz.com/)"
     },
