@@ -301,6 +301,12 @@
         "repo": "[PoomSmart](https://poomsmart.github.io/repo)"
     },
     {
+        "name": "PerfectMusic",
+        "compatible": "❌",
+        "issue": "Respring loops",
+        "description": "Colorize Music App And Music Widget Based On Artwork + some extra features for the music app",
+        "repo": "[Johnzaro's Repo](https://johnzaro.github.io/cydia/)"
+    {
         "name": "CC On & Off",
         "compatible": "✔️",
         "issue": "-",
