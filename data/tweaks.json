@@ -15,8 +15,8 @@
     },
     {
         "name": "AdvancedBrightnessSlider",
-        "compatible": "❌",
-        "issue": "Crashes to safe mode as soon as the Brightness slide gets triggered.",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "Dim the screen even further than usual",
         "repo": "[Havoc](https://havoc.app/)"
     },
