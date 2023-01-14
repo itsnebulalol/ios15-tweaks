@@ -28,6 +28,13 @@
         "repo": "[Havoc](https://havoc.app/)"
     },
     {
+        "name": "Ampere",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "iOS 16 Style Battery Indicator",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
         "name": "PowerSelector",
         "compatible": "⭕",
         "issue": "The tweak (in CC) and the preferences in Settings works well. App, instead, crashes as soon as it is opened",
@@ -151,6 +158,20 @@
         "compatible": "❌",
         "issue": "Crashes to safemode",
         "description": "Bring colors to your notifications",
+        "repo": "[Packix](https://repo.packix.com/)"
+    },
+    {
+        "name": "SmoothBattery",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Change your battery colors, in style.",
+        "repo": "[BigBoss](http://apt.thebigboss.org/repofiles/cydia)"
+    },
+    {
+        "name": "Folded",
+        "compatible": "⭕",
+        "issue": "Crashes into safemode when trying to move icons in a folder on 4x4 and above",
+        "description": "Customize your folders in style.",
         "repo": "[Packix](https://repo.packix.com/)"
     },
     {
@@ -407,8 +428,8 @@
     },
     {
         "name": "Checkl0ck",
-        "compatible": "❌",
-        "issue": "Crashes to safe mode. Not installable anyway since deb control file is munted.",
+        "compatible": "✔️",
+        "issue": "-",
         "description": "A11 devices like iPhone 8/X which have been jailbroken with Checkra1n cannot have passcode or FaceID/TouchID. Checkl0ck is a tweak for such devices to give you back the passcode and biometric capabilities.",
         "repo": "[Havoc](https://havoc.app/)"
     },
@@ -698,5 +719,33 @@
         "issue": "Not in a repo, download [here](https://cdn.discordapp.com/attachments/1028398976640229380/1044412805530538034/net.cadoth.fakepass_0.1.0-11debug_iphoneos-arm.deb).",
         "description": "Adds a passcode to the lockscreen for A10(X)/A11 devices jailbroken with palera1n. Uses iOS's native passcode UI.",
         "repo": "N/A"
+    },
+    {
+        "name": "AppData",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "View & Manage Applications Data from your Home Screen",
+        "repo": "[Fouad's Repo](https://apt.fouadraheb.com)"
+    },
+    {
+        "name": "CopyLog",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Clipboard history manager for iOS!",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "WeatherDate",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Show weather info on lockscreen & stock weather app icon",
+        "repo": "[Repo Of A Noob](https://tweak.mario.net.in)"
+    },
+    {
+        "name": "Legizmo 'Kincaid'",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Pair unsupported Apple Watches",
+        "repo": "[Chariz](https://repo.chariz.com/)"
     }
 ]
