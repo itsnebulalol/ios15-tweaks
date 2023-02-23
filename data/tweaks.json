@@ -747,5 +747,19 @@
         "issue": "-",
         "description": "Pair unsupported Apple Watches",
         "repo": "[Chariz](https://repo.chariz.com/)"
+    },
+    {
+        "name": "FingerLock",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "A convenient way to unlock your device",
+        "repo": "[Havoc](https://havoc.app/)"
+    },
+    {
+        "name": "Re:Scale 2",
+        "compatible": "✔️",
+        "issue": "-",
+        "description": "Change your resolution safely",
+        "repo": "[Team FESTIVAL](https://repo.festival.tf)"
     }
 ]
